@@ -1,5 +1,5 @@
 Source: remastersys-gtk
-Maintainer: mutse <yyhoo2.young@gmail.com>
+Maintainer: enperry <enperrydoesvrextra@gmail.com>
 Section: python
 Priority: optional
 Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 7.4.3), intltool, dh-translations, python-distutils-extra
