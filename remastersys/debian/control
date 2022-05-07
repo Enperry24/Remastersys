@@ -1,7 +1,7 @@
 Source: remastersys
 Section: extra
 Priority: optional
-Maintainer: mutse <yyhoo2.young@gmail.com>
+Maintainer: enperry <enperrydoesvrextra@gmail.com
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.2
 Homepage: http://www.remastersys.com
