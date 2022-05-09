@@ -8,7 +8,7 @@ Fork from [http://www.remastersys.com] "no longer active". All credit goes to Mu
 
 ## How to install
 
-Ubuntu 14.04/12.04:
+Ubuntu 14.04:
 
     sudo add-apt-repository ppa:enperry24/remastersys
     sudo apt-get update
